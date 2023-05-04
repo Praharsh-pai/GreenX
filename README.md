@@ -1,3 +1,16 @@
+
+# GreenX
+
+![Alt Text](https://media.giphy.com/media/ugOaZ3Wi8lqZW/giphy.gif)
+
+![Alt Text](https://media.giphy.com/media/ytwDCy4skFkEzyw4G4/giphy.gif)
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
